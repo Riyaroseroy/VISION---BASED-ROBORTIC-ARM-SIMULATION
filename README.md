@@ -10,7 +10,7 @@ The goal is to optimize grasp success using  Segementation mask in the computer 
 
 # Institution: INDIAN INSITUTE OF SPACE AND SCIENCE TECHNOLOGY, TRIVANDRUM, KERALA.
 
-# Course: INTERNSHIP PROJECT -  DEPARTMENT OF AVIONOCS.
+# Course: INTERNSHIP PROJECT -  DEPARTMENT OF AVIONICS.
 
  Author:  RIYA ROSE ROY.
  
